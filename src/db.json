@@ -1,0 +1,339 @@
+{
+  "teams": [
+    {
+      "id": 2,
+      "name": "Destroyers",
+      "players": [
+        {
+          "id": 1,
+          "nickname": "bebop",
+          "position": "ADC"
+        },
+        {
+          "id": 2,
+          "nickname": "cowboy123",
+          "position": "TOP"
+        },
+        {
+          "id": 3,
+          "nickname": "nonyko",
+          "position": "SUPPORT"
+        },
+        {
+          "id": 4,
+          "nickname": "streeterxs",
+          "position": "ADC"
+        },
+        {
+          "id": 5,
+          "nickname": "Patn Patone",
+          "position": "JUNGLE"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Little Barrier",
+      "players": [
+        {
+          "id": 9,
+          "nickname": "Kelo",
+          "position": "TOP"
+        },
+        {
+          "id": 10,
+          "nickname": "star",
+          "position": "TOP"
+        },
+        {
+          "id": 11,
+          "nickname": "seleni",
+          "position": "TOP"
+        }
+      ]
+    },
+    {
+      "name": "lion team",
+      "players": [
+        {
+          "id": 13,
+          "nickname": "lion",
+          "position": "JUNGLE"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "tree",
+      "players": [
+        {
+          "id": 1,
+          "nickname": "bebop",
+          "position": "ADC"
+        },
+        {
+          "id": 2,
+          "nickname": "cowboy123",
+          "position": "TOP"
+        },
+        {
+          "id": 3,
+          "nickname": "nonyko",
+          "position": "SUPPORT"
+        },
+        {
+          "id": 4,
+          "nickname": "streeterxs",
+          "position": "ADC"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Team red",
+      "players": [
+        {
+          "id": 9,
+          "nickname": "Kelo",
+          "position": "TOP"
+        },
+        {
+          "id": 10,
+          "nickname": "star",
+          "position": "TOP"
+        },
+        {
+          "id": 11,
+          "nickname": "seleni",
+          "position": "TOP"
+        },
+        {
+          "id": 12,
+          "nickname": "potato2",
+          "position": "SUPPORT"
+        },
+        {
+          "id": 13,
+          "nickname": "lion",
+          "position": "JUNGLE"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "Team blue",
+      "players": [
+        {
+          "id": 8,
+          "nickname": "Sama",
+          "position": "MID"
+        },
+        {
+          "id": 10,
+          "nickname": "star",
+          "position": "TOP"
+        },
+        {
+          "id": 14,
+          "nickname": "Pepe",
+          "position": "JUNGLE"
+        },
+        {
+          "id": 15,
+          "nickname": "Bile",
+          "position": "MID"
+        },
+        {
+          "id": 16,
+          "nickname": "boby",
+          "position": "Ad Carry"
+        },
+        {
+          "id": 17,
+          "nickname": "bor12",
+          "position": "TOP"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "Team green",
+      "players": [
+        {
+          "id": 18,
+          "nickname": "birx",
+          "position": "SUPPORT"
+        },
+        {
+          "id": 19,
+          "nickname": "fargo",
+          "position": "JUNGLE"
+        },
+        {
+          "id": 20,
+          "nickname": "drflex",
+          "position": "JUNGLE"
+        },
+        {
+          "id": 21,
+          "nickname": "onion_steak",
+          "position": "MID"
+        },
+        {
+          "id": 22,
+          "nickname": "fry_potato",
+          "position": "Ad Carry"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "Team yellow",
+      "players": [
+        {
+          "id": 1,
+          "nickname": "bebop",
+          "position": "ADC"
+        },
+        {
+          "id": 2,
+          "nickname": "cowboy123",
+          "position": "TOP"
+        },
+        {
+          "id": 3,
+          "nickname": "nonyko",
+          "position": "SUPPORT"
+        },
+        {
+          "id": 4,
+          "nickname": "streeterxs",
+          "position": "ADC"
+        },
+        {
+          "id": 9,
+          "nickname": "Kelo",
+          "position": "TOP"
+        },
+        {
+          "id": 14,
+          "nickname": "Pepe",
+          "position": "JUNGLE"
+        }
+      ],
+      "id": 14
+    }
+  ],
+  "players": [
+    {
+      "nickname": "bebop",
+      "position": "ADC",
+      "id": 1
+    },
+    {
+      "nickname": "cowboy123",
+      "position": "TOP",
+      "id": 2
+    },
+    {
+      "nickname": "nonyko",
+      "position": "SUPPORT",
+      "id": 3
+    },
+    {
+      "nickname": "streeterxs",
+      "position": "ADC",
+      "id": 4
+    },
+    {
+      "nickname": "Patn Patone",
+      "position": "JUNGLE",
+      "id": 5
+    },
+    {
+      "nickname": "Luke",
+      "position": "MID",
+      "id": 6
+    },
+    {
+      "nickname": "Nevis",
+      "position": "MID",
+      "id": 7
+    },
+    {
+      "nickname": "Sama",
+      "position": "MID",
+      "id": 8
+    },
+    {
+      "nickname": "Kelo",
+      "position": "TOP",
+      "id": 9
+    },
+    {
+      "nickname": "star",
+      "position": "TOP",
+      "id": 10
+    },
+    {
+      "nickname": "seleni",
+      "position": "TOP",
+      "id": 11
+    },
+    {
+      "nickname": "potato2",
+      "position": "SUPPORT",
+      "id": 12
+    },
+    {
+      "nickname": "lion",
+      "position": "JUNGLE",
+      "id": 13
+    },
+    {
+      "nickname": "Pepe",
+      "position": "JUNGLE",
+      "id": 14
+    },
+    {
+      "nickname": "Bile",
+      "position": "MID",
+      "id": 15
+    },
+    {
+      "nickname": "boby",
+      "position": "Ad Carry",
+      "id": 16
+    },
+    {
+      "nickname": "bor12",
+      "position": "TOP",
+      "id": 17
+    },
+    {
+      "nickname": "birx",
+      "position": "SUPPORT",
+      "id": 18
+    },
+    {
+      "nickname": "fargo",
+      "position": "JUNGLE",
+      "id": 19
+    },
+    {
+      "nickname": "drflex",
+      "position": "JUNGLE",
+      "id": 20
+    },
+    {
+      "nickname": "onion_steak",
+      "position": "MID",
+      "id": 21
+    },
+    {
+      "nickname": "fry_potato",
+      "position": "Ad Carry",
+      "id": 22
+    }
+  ]
+}
